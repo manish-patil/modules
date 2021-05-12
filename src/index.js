@@ -1,1 +1,4 @@
-export { sayHello } from './hello.js';
+// export { sayHello } from './hello.js';
+import { sayHello } from './hello.js';
+
+sayHello();
